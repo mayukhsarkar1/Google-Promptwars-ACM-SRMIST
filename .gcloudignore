@@ -1,0 +1,10 @@
+.gcloudignore
+.git
+node_modules
+.next
+data
+.env
+.env.*
+!.env.example
+coverage
+*.tsbuildinfo
